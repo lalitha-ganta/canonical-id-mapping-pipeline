@@ -1,0 +1,10 @@
+
+source_system,source_id,customer_name,email,event_time
+CRM,CRM101,Rahul,rahul@gmail.com,2026-10-20T10:00:00Z
+WEBSITE,WEB501,Rahul Kumar,rahul@gmail.com,2026-10-20T11:00:00Z
+APP,APP301,Rahul K,rahul@gmail.com,2026-10-20T12:00:00Z
+CRM,CRM102,Priya,priya@gmail.com,2026-10-20T10:30:00Z
+WEBSITE,WEB502,Priya Sharma,priya@gmail.com,2026-10-20T11:30:00Z
+APP,APP302,Amit,amit@gmail.com,2026-10-20T13:00:00Z
+CRM,CRM103,Unknown,,2026-10-20T14:00:00Z
+WEBSITE,WEB503,Test User,not-an-email,2026-10-20T15:00:00Z
